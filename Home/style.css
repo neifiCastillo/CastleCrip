@@ -111,6 +111,7 @@ manu */
     background-size: cover; */
     color: rgb(66, 66, 65);
     background-color: white;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.15) inset;
 }
 
 .container-info h1 {
@@ -191,13 +192,14 @@ manu */
 /* secciom criptos  */
 
 .container-criptos {
-    margin-top: 50px;
+    margin-top: 0px;
     max-width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     color: rgb(66, 66, 65);
     background-color: white;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.13);
 }
 
 .container-criptos h1 {
